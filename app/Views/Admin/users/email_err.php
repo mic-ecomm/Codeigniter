@@ -1,0 +1,1 @@
+<h1>Erreur lors de l'envoi d'un email</h1>
